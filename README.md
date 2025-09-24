@@ -1,5 +1,9 @@
 # 💫 About Me:
-Devoloping Mta:sa servers<br>Create Discord Bots<br>Front-End<br>After Effects<br>Photoshop<br>Html / css / Lua / python / java script<br>Creator of Egypt Lua Store
+💻 Full-stack developer & scripting enthusiast
+🎮 Specialized in MTA:SA scripting (Lua, shaders, roleplay systems)
+⚡ Interested in AI, automation, and modern web apps
+📚 Always learning & building projects that solve real problems
+🚀 Open to collaborations and freelance opportunities
 
 
 ## 🌐 Socials:
