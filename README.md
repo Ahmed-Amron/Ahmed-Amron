@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 💻 Full-stack developer & scripting enthusiast
 🎮 Specialized in MTA:SA scripting (Lua, shaders, roleplay systems)
 ⚡ Interested in AI, automation, and modern web apps
